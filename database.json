@@ -165,7 +165,7 @@
             "title": "meaningness",
             "website": "https://meaningness.com"
         },
-        {,
+        {
             "author": "Gwern Branwen",
             "description": "I write about psychology, statistics, and technology; I am best known for work on the darknet markets & Bitcoin, blinded self-experiments & Quantified Self analyses, dual n-back & spaced repetition, and modafinil.",
             "tags": [
@@ -388,7 +388,7 @@
             "title": "Christine Dodrill",
             "website": "https://christine.website/blog"
         },
-         {
+        {
             "author": "Rohith Palakirti",
             "description": "I write a blog about deep learning and everything else that I'm in the process of learning.",
             "tags": [
@@ -401,7 +401,7 @@
             ],
             "title": "Rohith's Blog",
             "website": "https://www.rkpblog.tech"
-         },
+        },
         {
             "author": "OldPanda",
             "description": "I shall dedicate myself to the interests of the country in life and death irrespective of personal weal and woe",
