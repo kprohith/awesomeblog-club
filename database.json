@@ -165,7 +165,7 @@
             "title": "meaningness",
             "website": "https://meaningness.com"
         },
-        {
+        {,
             "author": "Gwern Branwen",
             "description": "I write about psychology, statistics, and technology; I am best known for work on the darknet markets & Bitcoin, blinded self-experiments & Quantified Self analyses, dual n-back & spaced repetition, and modafinil.",
             "tags": [
@@ -397,7 +397,7 @@
                 "programming",
                 "tech",
                 "deep-learning",
-                "data-science",
+                "data-science"
             ],
             "title": "Rohith's Blog",
             "website": "https://www.rkpblog.tech"
