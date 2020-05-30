@@ -221,7 +221,7 @@
             "author": "Patrick Collison",
             "description": "I live in San Francisco and work at Stripe. I grew up in Ireland and previously studied math at MIT. I am on the boards of Stripe and the Long Now Foundation. (The long-term is underrated!)",
             "tags": [
-                "progarmming",
+                "programming",
                 "computer-science",
                 "advice",
                 "internet",
@@ -338,6 +338,19 @@
             "website": "http://glennengstrand.info/blog/"
         },
         {
+            "author": "Shane Mulligan",
+            "description": "My journey into biosemiotics 🌻, xenolingustics 👽 and emacs 🐄",
+            "tags": [
+                "emacs",
+                "racket",
+                "nlp",
+                "ioc",
+                "parsers"
+            ],
+            "title": "Bodacious Blog",
+            "website": "https://mullikine.github.io/"
+        },
+        {
             "author": "Stavros Korokithakis",
             "description": "I figure some people might be interested in the projects I make from time to time, or the solution to problems I have, so I publish them.",
             "tags": [
@@ -365,7 +378,7 @@
         },
         {
             "author": "Christine Dodrill",
-            "description": "Tech, Cooking, Linugistics, Programming language theroy and more",
+            "description": "Tech, Cooking, Linugistics, Programming language theory and more",
             "tags": [
                 "rust",
                 "golang",
@@ -388,6 +401,123 @@
             ],
             "title": "Rohith's Blog",
             "website": "https://www.rkpblog.tech"
+         },
+        {
+            "author": "OldPanda",
+            "description": "I shall dedicate myself to the interests of the country in life and death irrespective of personal weal and woe",
+            "tags": [
+                "python",
+                "golang",
+                "life",
+                "chinese"
+            ],
+            "title": "Panda Home",
+            "website": "https://old-panda.com/"
+        },
+        {
+            "author": "Eric Richardson",
+            "description": "Musings around the intersection of people and machines",
+            "tags": [
+                "crypto",
+                "peer-to-peer",
+                "work"
+            ],
+            "title": "Decompiled",
+            "website": "https://decompiled.dev"
+        },
+        {
+            "author": "Ibrahim Diallo",
+            "description": "Telling stories about the programming world one statement at a time",
+            "tags": [
+                "programming",
+                "storytelling",
+                "work-stories"
+            ],
+            "title": "Programming from the human perspective By Ibrahim Diallo",
+            "website": "https://idiallo.com"
+        },
+        {
+            "author": "Devin Weaver (@sukima)",
+            "description": "A blog of personal quality — I am a passionate software developer specialized in Ember.js, JavaScript, and Ruby. I dabble in Photography, 360 panoramic tours, interactive fiction, and geek culture.",
+            "tags": [
+                "javascript",
+                "emberjs",
+                "photography",
+                "panoramas",
+                "interactive-fiction",
+                "programming",
+                "bash",
+                "vim"
+            ],
+            "title": "TriTarget.org",
+            "website": "https://tritarget.org/"
+        },
+        {
+            "author": "Brajeshwar Oinam",
+            "description": "I am a designer. I design experiences, opportunities, careers, teams, products, and organizations.",
+            "tags": [
+                "design",
+                "technology",
+                "entrepreneurship",
+                "startups"
+            ],
+            "title": "Brajeshwar Oinam",
+            "website": "https://brajeshwar.com"
+        },
+        {
+            "author": "Blain smith",
+            "description": "Software, programming, and maybe some powerlifting.",
+            "tags": [
+                "go",
+                "programming",
+                "linux",
+                "software-engineering",
+                "powerlifting",
+                "learning",
+                "networking",
+                "shell-tools",
+                "open-source"
+            ],
+            "title": "Blain Smith",
+            "website": "https://blainsmith.com"
+        },
+        {
+            "author": "Lukas Murdock",
+            "description": "Designer, developer, and marketer trying to do work that matters for people who care.",
+            "tags": [
+                "designer",
+                "developer",
+                "marketer",
+                "brand",
+                "business"
+            ],
+            "title": "Lukas Murdock",
+            "website": "https://lukasmurdock.com/"
+        },
+        {
+            "author": "Matt Greer",
+            "description": "I'm mostly a JavaScript developer who also has an interest in retro game tech. I tend to combine the two in various ways, such as modern web based tools for old game consoles.",
+            "tags": [
+                "javascript",
+                "typescript",
+                "retro-gaming",
+                "web-based-tools"
+            ],
+            "title": "Matt Greer",
+            "website": "https://www.mattgreer.org"
+        },
+        {
+            "author": "Franz Neubert",
+            "description": "Software, projects & software projects. I write about personal projects and about things I learned at my job as a data engineer.",
+            "tags": [
+                "software-engineering",
+                "projects",
+                "engineering",
+                "data-engineering",
+                "performance"
+            ],
+            "title": "Franz Neubert: Writing",
+            "website": "https://franz.hamburg/writing.html"
         }
     ]
 }
