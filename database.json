@@ -374,6 +374,20 @@
             ],
             "title": "Christine Dodrill",
             "website": "https://christine.website/blog"
+        },
+         {
+            "author": "Rohith Palakirti",
+            "description": "I write a blog about deep learning and everything else that I'm in the process of learning.",
+            "tags": [
+                "python",
+                "javascript",
+                "programming",
+                "tech",
+                "deep-learning",
+                "data-science",
+            ],
+            "title": "Rohith's Blog",
+            "website": "https://www.rkpblog.tech"
         }
     ]
 }
